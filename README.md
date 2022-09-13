@@ -1,4 +1,4 @@
-<h1 position=center> Hola! Soy Sebastian 👋 </h1>
+<h1 align="center"> Hola! Soy Sebastian 👋 </h1>
 
 ## Skills:
 
