@@ -1,4 +1,7 @@
 <h1 align="center"> Hola! Soy Sebastian 👋 </h1>
+<p> Soy apasionado por la tecnología y de aprender cosas nuevas. Soy una persona proactiva, de mente analítica, con grandes habilidades de comunicación y empatía. 
+    Tengo experiencia liderando un equipo de trabajo, como en atención al público y en comunicación; esto me han fortalecido, tanto en la tolerancia, cómo en el           autocontrol ante las adversidades, lo que favorece mi adaptación al cambio; potenciando asi mis habilidades de liderazgo. Mi objetivo es evolucionar                   profesionalmente en un ambiente de trabajo armonioso, donde pueda enfrentar desafíos y continuar con mi desarrollo personal, priorizando siempre la colaboración y     participación en equipo, teniendo como objetivo común alcanzar el máximo potencial en cada tarea!!
+</p>
 
 ## Skills:
 
