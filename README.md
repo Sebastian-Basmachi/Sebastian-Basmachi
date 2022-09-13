@@ -4,4 +4,4 @@
 
 Bootstrap - CSS - HTLM - JavaScript - Node.js - React - Redux - Express - PostgreSQL - TypeScript - SASS
 
-(react.com)
+(https://getbootstrap.com/)
