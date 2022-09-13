@@ -1,4 +1,4 @@
-### Hola soy Sebastian 👋
+<h1 position=center> Hola! Soy Sebastian 👋 </h1>
 
 ## Skills:
 
@@ -13,7 +13,7 @@
 * <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> PostgreSQL
 
 
-// ## Connect with me:
+## Conectate conmigo:
 <a href="https://linkedin.com/in/sebastian-basmachi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastian-basmachi/" height="30" width="40" /></a>
 
 
